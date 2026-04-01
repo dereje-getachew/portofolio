@@ -21,7 +21,7 @@ const Projects = () => {
             <ProjectCard
               imgPath={Spotify}
               isBlog={false}
-              title="spotify_clone"
+              title="Erp Sparepart Managment"
               description="ERP Spare Parts is a specialized inventory system designed to manage spare parts stock, track usage, and streamline procurement processes. Built with Laravel, React, and MySQL, it ensures efficient operations with real-time data and reporting."
               ghLink="https://admin.komiparts.com/"
             />
@@ -31,7 +31,7 @@ const Projects = () => {
             <ProjectCard
               imgPath={project}
               isBlog={false}
-              title="chat-appp"
+              title="Project Managment"
               description="SpeedOps is a task management system designed to organize workflows, assign tasks, and track progress efficiently across teams. Built with Laravel, React, and MySQL, it enhances productivity through real-time updates and streamlined collaboration."
               ghLink="https://speedops.dev/"
             />
@@ -41,7 +41,7 @@ const Projects = () => {
             <ProjectCard
               imgPath={kickstart}
               isBlog={false}
-              title="E‑Commerce Website"
+              title="Stock Managment"
               description="Fanaye ERP is a stocks management system built to streamline inventory tracking, reporting, and overall warehouse operations. Developed using Laravel, React, and MySQL, it delivers real-time insights and efficient stock control for businesses."
               ghLink="erp.fanayetechnologies.com"
             />
